@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.navbar{
+    border: 2px solid black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    height: 100px;
+    width: 100px;
+    font-family: "Kanit";
+}
+
+#input{
+    width: 800px;
+    height: 34px;
+    /* border: 2px solid black; */
+    border-radius: 28px;
+    /* margin-top: 6px; */
+}
+
+h1{
+    font-size: 34px;
+    color: #f1641e;
+}

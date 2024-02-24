@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.firstdiv{
+    border: 1px solid black;
+    margin: 12px 24px;
+}
+
+#logo{
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+sup{
+    font-size: 9px;
+}
+
+.icons1{
+}
+
+.seconddiv{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    width: 60%;
+    }
+
+.search_container{
+    width: 80%;
+}

@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* border: 1px solid black; */
+}
+
+body{
+    background-color: gold;
+}
+
+.head{
+    background-color: gold;
+}
+
+.crd{
+    height: 200px;
+}

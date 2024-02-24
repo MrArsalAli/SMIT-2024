@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+i{
+    margin: 0px 16px;
+}
+
+i:hover{
+    cursor: pointer;
+}
+
+.sidebars:hover{
+    background-color: #e4e6eb;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.row{
+    height: 600px;
+    width: 100%;
+}

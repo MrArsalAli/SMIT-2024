@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    height: 100vh;
+}   
+
+.background{
+    background-color:  #003b95;
+    height: 340px;
+}
+
+.line2 > a{
+    background-color: #003b95;
+    border: none;
+    border-radius: 20px;
+}
+
+.lhr-dubai{
+    height: 280px;
+}
+
+.islmckar{
+    height: 246px;
+}
+
+.container_search{ 
+    width: 342px;
+}
+
+input{
+    height: 50px;
+}
+
+
