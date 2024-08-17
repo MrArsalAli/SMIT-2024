@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: powderblue;
+}
+
+#div {
+    height: 100%;
+    width: 98%;
+    margin: 0px auto;
+}
+.card {
+    text-align: center;
+    margin: 0px auto;
+    height: 360px;
+    width: 160px;
+    display: inline-block;
+    border: 2px solid green;
+}
+
+.card:hover {
+    background-color: black;
+    color: white;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-family: cursive;
+}
